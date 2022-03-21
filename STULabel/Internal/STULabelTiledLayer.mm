@@ -12,7 +12,7 @@
 
 #import "stu/Vector.hpp"
 #import "stu/UniquePtr.hpp"
-
+#include <atomic>
 #include "DefineUIntOnCatalystToWorkAroundGlobalNamespacePollution.h"
 
 @interface STUTileLayer : STULayerWithNullDefaultActions
