@@ -15,7 +15,7 @@
 #import "Internal/TextFrame.hpp"
 
 #import "stu/BinarySearch.hpp"
-
+#include <atomic>
 #include "Internal/DefineUIntOnCatalystToWorkAroundGlobalNamespacePollution.h"
 
 using namespace stu;
