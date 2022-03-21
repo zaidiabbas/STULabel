@@ -5,7 +5,7 @@
 #import "Font.hpp"
 
 #include "DefineUIntOnCatalystToWorkAroundGlobalNamespacePollution.h"
-
+#include <atomic>
 namespace stu_label {
 
 STU_NO_INLINE
